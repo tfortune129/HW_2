@@ -1,0 +1,145 @@
+*{
+    color: black;
+
+
+}
+
+.header {
+   width: auto;
+   height: 100px;
+   background-color: black;
+    
+}
+
+.image {
+    position: auto;
+}
+
+.textcenter {
+    position: absolute;
+    z-index: 999;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    text-align: center;
+    top: 30%;
+    color: white;
+    font-size: 75px;
+
+}
+   
+
+h1 {
+    color: white;
+    text-align: left;
+    font-size: 15px ;
+    padding: auto;
+    background-color: black;
+    margin-left: 10px;
+}
+
+.h1text {
+    word-spacing: 50px;
+    color:white;
+    margin-right: 30px;
+}
+
+.h2text {
+    font-size: x-large;
+}
+h2 {
+    border-style: ridge;
+    font-size: 10px;
+    color: black;
+    background-color: rgb(231, 227, 227);
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size: small;
+}
+
+h3 {
+    position:relative;
+    color: black;
+    margin-left: 110px
+    
+}
+
+.readmore {
+    position: relative;
+    margin-left: 800px;
+    margin-bottom: 50px;
+}
+
+h4 {
+    
+    border-style:ridge;
+    display: inline;
+    background-color: rgb(235, 170, 48);
+    color: white;
+
+
+}
+
+
+.container{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    text-align: left;
+    font-size: 10px;
+    margin-left: 100px
+ 
+    
+}
+
+.item {
+    padding: 10px;
+    background-color: white;
+}
+
+/* .itemfont {
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+cant seem to get this to work... */
+
+.footer {
+    background-color: black;
+    color: white;
+    width: auto;
+    height: 200px;
+}
+
+.container2 {
+   display: flex;
+   flex-direction: row;
+   
+   
+}
+
+.footerselection {
+    position: relative;
+    margin-left: 300px;
+    color: white;
+}
+
+
+#icon {
+    color: white;
+}
+
+p{
+    color: white;
+    font-size: large;
+}
+
+.map {
+    position: absolute;
+    margin-left: 40px;
+    margin-top: 40px;
+
+
+}
+
+.line {
+    margin-right: 100px;
+}
